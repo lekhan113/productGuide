@@ -37,6 +37,7 @@
   1. Kiểm tra quyền Thông báo của Google Map
   2. Kiểm tra lại bước 3
   3. Qua tab Thông báo, tắt quyền đọc thông báo của Chronos và bật lại
+  4. Nếu hiện dòng "Check Chronos setting, kiểm tra lại chỗ *Quản lý esp* ở bước 3
 - Nếu gặp sự cố kết nối, hãy thử khởi động lại điện thoại hoặc đồng hồ.
 - Đảm bảo ứng dụng Chronos luôn được cập nhật phiên bản mới nhất để nhận các tính năng và bản vá mới.
 
