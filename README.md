@@ -17,7 +17,10 @@
 - Nhấn vào tên thiết bị để kết nối. Xác nhận ghép đôi nếu được yêu cầu.
 - Sau khi kết nối thành công, đồng hồ sẽ tự động đồng bộ dữ liệu với ứng dụng.
 
-![Kết nối đồng hồ thông minh](images/chronos_connect.png)
+![Kết nối đồng hồ thông minh](images/chronos_connect.jpg)
+![Kết nối đồng hồ thông minh](images/chronos_connect2.jpg)
+![Kết nối đồng hồ thông minh](images/chronos_connect3.jpg)
+![Kết nối đồng hồ thông minh](images/chronos_connect5.jpg)
 
 
 ## 3. Cài đặt ban đầu
@@ -41,8 +44,5 @@
   4. Nếu hiện dòng "Check Chronos setting, kiểm tra lại chỗ *Quản lý esp* ở bước 3
 - Nếu gặp sự cố kết nối, hãy thử khởi động lại điện thoại hoặc đồng hồ.
 - Đảm bảo ứng dụng Chronos luôn được cập nhật phiên bản mới nhất để nhận các tính năng và bản vá mới.
-
----
-**Lưu ý:**
 
 
