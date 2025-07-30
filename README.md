@@ -29,7 +29,8 @@
 6. Lướt xuống dưới cùng, chọn Quản lý esp
 7. Bật Cho phép chỉ đường
 
-![Cấp quyền cho ứng dụng Chronos](images/chronos_permission.png)
+![Cấp quyền cho ứng dụng Chronos](images/chronos_permission.jpg)
+![Cấp quyền cho ứng dụng Chronos](images/chronos_permission2.jpg)
 
 ## 8. Một số lưu ý
 - Luôn bật Bluetooth để đảm bảo kết nối liên tục.
