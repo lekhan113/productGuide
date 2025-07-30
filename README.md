@@ -10,13 +10,23 @@
 <img src="images/appCHplay.jpg" alt="Cài đặt Chronos trên Google Play" width="50%" />
 
 
-## 2. Kết nối thiết bị
-- Bật Bluetooth trên điện thoại.
-- Trong ứng dụng Chronos, qua tab Đồng hồ
-- Chọn đồng hồ thông minh của bạn từ danh sách thiết bị khả dụng. Nếu chưa thấy, nhấn "Quét lại" (Refresh).
-- Nhấn vào tên thiết bị để kết nối. Xác nhận ghép đôi nếu được yêu cầu.
-- Sau khi kết nối thành công, đồng hồ sẽ tự động đồng bộ dữ liệu với ứng dụng.
+## 2. Cài đặt ban đầu
+1. Qua tab Thông báo
+2. Chọn mục Ứng dụng
+3. Cấp quyền đọc thông báo cho Chronos  
+   <img src="images/chronos_permission.jpg" alt="Cấp quyền cho ứng dụng Chronos" width="50%" />
+4. Vào lại mục Ứng dụng, tìm từ khóa *maps* và tích vào
 
+   <img src="images/chronos_permission2.jpg" alt="Cấp quyền cho ứng dụng Chronos - chỉ đường" width="50%" />
+
+   ## 3. Kết nối thiết bị
+1. Bật Bluetooth trên điện thoại.
+2. Trong ứng dụng Chronos, qua tab Đồng hồ
+3. Chọn đồng hồ thông minh của bạn từ danh sách thiết bị khả dụng. Nếu chưa thấy, nhấn "Quét lại" (Refresh).
+4. Nhấn vào tên thiết bị để kết nối. Xác nhận ghép đôi nếu được yêu cầu.
+5. Sau khi kết nối thành công, đồng hồ sẽ tự động đồng bộ dữ liệu với ứng dụng.
+6. Lướt xuống dưới cùng, chọn Quản lý esp
+7. Bật Cho phép chỉ đường  
   
 <img src="images/chronos_connect.jpg" alt="Kết nối đồng hồ thông minh - bước 1" width="50%" />
 
@@ -27,18 +37,7 @@
 <img src="images/chronos_connect5.jpg" alt="Kết nối đồng hồ thông minh - bước 4" width="50%" />
 
 
-## 3. Cài đặt ban đầu
-1. Qua tab Thông báo
-2. Chọn mục Ứng dụng
-3. Cấp quyền đọc thông báo cho Chronos  
-   <img src="images/chronos_permission.jpg" alt="Cấp quyền cho ứng dụng Chronos" width="50%" />
-4. Vào lại mục Ứng dụng, tìm từ khóa *maps* và tích vào
-5. Qua tab Đồng hồ
-6. Lướt xuống dưới cùng, chọn Quản lý esp
-7. Bật Cho phép chỉ đường  
-   <img src="images/chronos_permission2.jpg" alt="Cấp quyền cho ứng dụng Chronos - chỉ đường" width="50%" />
-
-## 8. Một số lưu ý
+## 4. Một số lưu ý
 - Luôn bật Bluetooth để đảm bảo kết nối liên tục.
 - Nếu hiển thị giờ nhưng không hiển thị chỉ đường:
   1. Kiểm tra quyền Thông báo của Google Map
