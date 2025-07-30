@@ -7,7 +7,7 @@
 - Tìm kiếm từ khóa "Chronos" nếu truy cập qua Play Store.
 - Chọn ứng dụng Chronos của nhà phát triển FBiego, nhấn "Cài đặt" (Install).
 
-![Cài đặt Chronos trên Google Play](images/appCHplay.jpg)
+<img src="images/appCHplay.jpg" alt="Cài đặt Chronos trên Google Play" width="50%" />
 
 
 ## 2. Kết nối thiết bị
@@ -17,23 +17,26 @@
 - Nhấn vào tên thiết bị để kết nối. Xác nhận ghép đôi nếu được yêu cầu.
 - Sau khi kết nối thành công, đồng hồ sẽ tự động đồng bộ dữ liệu với ứng dụng.
 
-![Kết nối đồng hồ thông minh](images/chronos_connect.jpg)
-![Kết nối đồng hồ thông minh](images/chronos_connect2.jpg)
-![Kết nối đồng hồ thông minh](images/chronos_connect3.jpg)
-![Kết nối đồng hồ thông minh](images/chronos_connect5.jpg)
+  
+<img src="images/chronos_connect.jpg" alt="Kết nối đồng hồ thông minh - bước 1" width="50%" />
+
+<img src="images/chronos_connect2.jpg" alt="Kết nối đồng hồ thông minh - bước 2" width="50%" />
+
+<img src="images/chronos_connect3.jpg" alt="Kết nối đồng hồ thông minh - bước 3" width="50%" />
+
+<img src="images/chronos_connect5.jpg" alt="Kết nối đồng hồ thông minh - bước 4" width="50%" />
 
 
 ## 3. Cài đặt ban đầu
 1. Qua tab Thông báo
 2. Chọn mục Ứng dụng
-3. Cấp quyền đọc thông báo cho Chronos
+3. Cấp quyền đọc thông báo cho Chronos  
+   <img src="images/chronos_permission.jpg" alt="Cấp quyền cho ứng dụng Chronos" width="50%" />
 4. Vào lại mục Ứng dụng, tìm từ khóa *maps* và tích vào
 5. Qua tab Đồng hồ
 6. Lướt xuống dưới cùng, chọn Quản lý esp
-7. Bật Cho phép chỉ đường
-
-![Cấp quyền cho ứng dụng Chronos](images/chronos_permission.jpg)
-![Cấp quyền cho ứng dụng Chronos](images/chronos_permission2.jpg)
+7. Bật Cho phép chỉ đường  
+   <img src="images/chronos_permission2.jpg" alt="Cấp quyền cho ứng dụng Chronos - chỉ đường" width="50%" />
 
 ## 8. Một số lưu ý
 - Luôn bật Bluetooth để đảm bảo kết nối liên tục.
