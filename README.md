@@ -7,7 +7,7 @@
 - Tìm kiếm từ khóa "Chronos" nếu truy cập qua Play Store.
 - Chọn ứng dụng Chronos của nhà phát triển FBiego, nhấn "Cài đặt" (Install).
 
-![Cài đặt Chronos trên Google Play](images\appCHplay.jpg)
+![Cài đặt Chronos trên Google Play](images/appCHplay.jpg)
 
 
 ## 2. Kết nối thiết bị
