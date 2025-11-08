@@ -11,6 +11,9 @@
 
 
 ## 2. Cài đặt ban đầu
+
+_Tắt chế độ tối ưu sử dụng pin trong cài đặt của ứng dụng Chronos_
+
 1. Qua tab Thông báo
 2. Chọn mục Ứng dụng
 3. Cấp quyền đọc thông báo cho Chronos  
@@ -36,12 +39,14 @@
 
 <img src="images/chronos_connect5.jpg" alt="Kết nối đồng hồ thông minh - bước 4" width="50%" />
 
-## 4. Bật thông báo app tuỳchọn
+## 4. Bật thông báo app tuỳ chọn
 1. Vào lại phần ứng dụng của bước 2
 2. Chọn app muốn nhận thông báo và bật lên
 
-## 5. Một số lưu ý
-- Luôn bật Bluetooth để đảm bảo kết nối liên tục.
+
+
+## 5. Một số lỗi hay gặp
+
 - Nếu hiển thị giờ nhưng không hiển thị chỉ đường:
   1. Kiểm tra quyền Thông báo của Google Map
   2. Kiểm tra lại bước 3
@@ -49,5 +54,5 @@
   4. Nếu hiện dòng "Check Chronos setting, kiểm tra lại chỗ *Quản lý esp* ở bước 3
 - Nếu gặp sự cố kết nối, hãy thử khởi động lại điện thoại hoặc đồng hồ.
 - Đảm bảo ứng dụng Chronos luôn được cập nhật phiên bản mới nhất để nhận các tính năng và bản vá mới.
-
+- Đảm bảo tắt chế độ tối ưu sử dung pin trên các dòng điện thoại Android
 
