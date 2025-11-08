@@ -36,8 +36,11 @@
 
 <img src="images/chronos_connect5.jpg" alt="Kết nối đồng hồ thông minh - bước 4" width="50%" />
 
+## 4. Bật thông báo app tuỳchọn
+1. Vào lại phần ứng dụng của bước 2
+2. Chọn app muốn nhận thông báo và bật lên
 
-## 4. Một số lưu ý
+## 5. Một số lưu ý
 - Luôn bật Bluetooth để đảm bảo kết nối liên tục.
 - Nếu hiển thị giờ nhưng không hiển thị chỉ đường:
   1. Kiểm tra quyền Thông báo của Google Map
