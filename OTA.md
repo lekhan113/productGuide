@@ -1,4 +1,4 @@
-# Hướng dẫn cập nhật firmware (OTA)
+# Hướng dẫn cập nhật firmware (OTA) Hiện tại đang lỗi
 
 **Các bước thực hiện:**
 
